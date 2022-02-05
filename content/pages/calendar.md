@@ -4,31 +4,339 @@ title: Calendar
 uid: a7df1638-f64a-27d7-f30f-88c412eacdd0
 ---
 
-| LEC # | CLASS | KEY DATEs |
-| --- | --- | --- |
-| 1 | Introduction  {{< br >}}  {{< br >}}Activity 1 Filantrópica |  |
-| 2 | Discutir Lecturas |  |
-| 3 | Activity 2 Teorías |  |
-| 4 | Discutir Lecturas |  |
-| 5 | Discutir Lecturas |  |
-| 6 | Discutir Lecturas |  |
-| 7 | Activity 3 Drogas |  |
-| 8 | Discutir Lecturas | Prepare Examen Oral |
-| 9 | Examen Oral, Diario Ficticio |  {{< br >}}{{< br >}}  |
-| 10 | Activity 4 El estrés |  |
-| 11 | Discutir Lecturas |  |
-| 12 | Discutir Lecturas |  |
-| 13 | Activity 5 Testigos |  |
-| 14 | Discutir Lecturas |  |
-| 15 | Activity 6 Discriminación |  |
-| 16 | Discutir Lecturas | Prepare Examen Oral |
-| 17 | Diario Ficticio, Examen Oral |  |
-| 18 | Activity 7 Impresiones |  |
-| 19 | Discutir Lecturas |  |
-| 20 | Activity 8 Derechos humanos |  |
-| 21 | Discutir Lecturas |   {{< br >}} |
-| 22 | Activity 9 Castigos |  |
-| 23 | Discutir Lecturas | Prepare Minidrama/Minicomedia  {{< br >}} |
-| 24 | Activity 10 Valores | Prepare Minidrama/Minicomedia |
-| 25 | Discutir Lecturas | Prepare Examen Oral, Minidrama/Minicomedia |
-| 26 | Examen Oral, Present Minidrama/Minicomedia |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+CLASS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATEs
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+  
+Activity 1 Filantrópica
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 2 Teorías
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 3 Drogas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Examen Oral
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Examen Oral, Diario Ficticio
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 4 El estrés
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 5 Testigos
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 6 Discriminación
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Examen Oral
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Diario Ficticio, Examen Oral
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 7 Impresiones
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 8 Derechos humanos
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 9 Castigos
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Minidrama/Minicomedia  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 10 Valores
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Minidrama/Minicomedia
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Discutir Lecturas
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare Examen Oral, Minidrama/Minicomedia
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Examen Oral, Present Minidrama/Minicomedia
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
